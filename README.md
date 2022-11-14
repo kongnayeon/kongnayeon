@@ -3,7 +3,7 @@
 <div align=center>
 
   <h3>𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸<h3>
-  <h6>𝘴𝘵𝘶𝘥𝘪𝘦𝘥 𝘢𝘵 𝘭𝘦𝘢𝘴𝘵 𝘰𝘯𝘤𝘦</h6>
+  <h6>.•✧ 𝘴𝘵𝘶𝘥𝘪𝘦𝘥 𝘢𝘵 𝘭𝘦𝘢𝘴𝘵 𝘰𝘯𝘤𝘦</h6>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
@@ -28,19 +28,16 @@
   <br>
   
   
-  
   <div>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kongnayeon&count_private=true&layout=compact&theme=buefy" width="40%"/>
   <img src="https://github-readme-stats.vercel.app/api?username=kongnayeon&&show_icons=true&count_private=true&theme=buefy" width="40%" />
-  </div>
-  
-  
-  
+  </div> 
     
 
 
-
 <h3>𝗠𝗼𝗿𝗲 𝗜𝗻𝗳𝗼<h3>
+  <img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/nayeonkang@kakao.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=e6qyjf1nk467xrcayc0n1osmc)
 
