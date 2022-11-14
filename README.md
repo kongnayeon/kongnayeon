@@ -29,8 +29,8 @@
   
   
   <div>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kongnayeon&count_private=true&layout=compact&theme=buefy" width="40%"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=kongnayeon&&show_icons=true&count_private=true&theme=buefy" width="40%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kongnayeon&count_private=true&layout=compact&theme=buefy" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=kongnayeon&&show_icons=true&count_private=true&theme=buefy" width="49%" />
   </div> 
     
 
